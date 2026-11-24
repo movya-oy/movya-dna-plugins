@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "movya-dna": {
+      "type": "http",
+      "url": "https://dna.movya.net/mcp"
+    }
+  }
+}

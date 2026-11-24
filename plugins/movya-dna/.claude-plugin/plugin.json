@@ -1,0 +1,17 @@
+{
+  "name": "movya-dna",
+  "version": "0.1.0",
+  "description": "Connect to Movya DNA and use shared company knowledge and skills with your existing permissions.",
+  "author": {
+    "name": "Movya",
+    "url": "https://dna.movya.net"
+  },
+  "homepage": "https://dna.movya.net",
+  "repository": "https://github.com/movya-oy/movya-dna-plugins",
+  "license": "MIT",
+  "keywords": [
+    "knowledge",
+    "skills",
+    "movya"
+  ]
+}

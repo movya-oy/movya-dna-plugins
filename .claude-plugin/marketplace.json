@@ -1,0 +1,15 @@
+{
+  "name": "movya-dna",
+  "description": "Official Movya DNA plugins for AI assistants",
+  "owner": {
+    "name": "Movya",
+    "url": "https://dna.movya.net"
+  },
+  "plugins": [
+    {
+      "name": "movya-dna",
+      "description": "Connect to Movya DNA and use shared company knowledge and skills with your existing permissions.",
+      "source": "./plugins/movya-dna"
+    }
+  ]
+}

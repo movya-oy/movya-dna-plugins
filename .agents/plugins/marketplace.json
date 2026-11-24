@@ -1,0 +1,20 @@
+{
+  "name": "movya-dna",
+  "interface": {
+    "displayName": "Movya DNA"
+  },
+  "plugins": [
+    {
+      "name": "movya-dna",
+      "source": {
+        "source": "local",
+        "path": "./codex/movya-dna"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "name": "movya-dna",
-  "version": "0.1.0",
+  "displayName": "Movya DNA",
+  "version": "0.1.1",
   "description": "Connect to Movya DNA and use shared company knowledge and skills with your existing permissions.",
   "author": {
     "name": "Movya",
